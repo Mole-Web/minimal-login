@@ -1,3 +1,3 @@
-# template
+# minimal-login
 
-A base template for all projects.
+A simple login page with Tailwind.
